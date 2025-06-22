@@ -22,4 +22,4 @@
 1. Clonar:  
 
 ```bash
-git clone https://github.com/DavidFierro23/Actividad1.1.git
+git clone https://github.com/DavidFierro23/Actividad1_1.git
